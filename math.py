@@ -1,3 +1,6 @@
+def log(x,y)
+   return(log10x)
+
 def subtract(x,y):
    return(x-y)
 
