@@ -4,6 +4,15 @@ def div(x,y)
 def multiply(x,y)
    return(x*y)
 
+def exp(x,y)
+   return(exp x)
+
+def log(x,y)
+   return(logx)
+
+def subtract(x,y):
+   return(x-y)
+
 def add(x,y):
    return(x+y)
 
