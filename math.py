@@ -1,5 +1,8 @@
+def exp(x,y)
+   return(exp x)
+
 def log(x,y)
-   return(log10x)
+   return(logx)
 
 def subtract(x,y):
    return(x-y)
